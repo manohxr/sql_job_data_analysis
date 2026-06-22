@@ -50,11 +50,11 @@ The above query returns a table listing top 10 high paying data analyst jobs.
 - **Diverse Employers**: Numerous companies such as Meta, SmartAsset and AT&T are among those offering high salaries, showing a broad interest across various industries.
 - **Job Title Variety**: There is a high variety of job titles such as ERM Data Analyst, Director of Analytics, Associate Director - Data Insights and much more within the Data Analytics.
 
-![Top Paying Roles](assets\1_top_paying_roles.png)
+![Top Paying Roles](assets/1_top_paying_roles.png)
 *This chart displays the top 10 highest-paying data-related job postings in the dataset based on average annual salary. The Data Analyst role at Mantys stands out with an exceptionally high salary of $650,000, significantly exceeding all other positions. The results also show that senior and leadership roles such as Director of Analytics and Principal Data Analyst command some of the highest salaries in the data job market*
 #### Similar approach has been taken to tackle other aspects of the project.
 ### Top In-Demand Skills:
-![Top In Demand Skills](assets\5_top_in_demand_skills.png)
+![Top In Demand Skills](assets/5_top_in_demand_skills.png)
 *This chart highlights the most in-demand skills for Data Analyst roles based on the number of job postings in the dataset. SQL is the most sought-after skill, appearing in 398 job postings, followed by Excel, Python, and Tableau, indicating that these tools form the core skill set expected by employers.*
 *The chart also shows the average salary associated with each skill. While SQL has the highest demand, skills such as Go, Snowflake, Azure, and AWS are linked to higher average salaries, suggesting that specialized technical skills can significantly increase earning potential in the data analytics job market.*
 # Conclusion
