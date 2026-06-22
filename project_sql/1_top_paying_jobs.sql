@@ -1,5 +1,5 @@
 /*
-Q. What are the top paying jobs in data analyst jobs?
+Q. What are the top paying jobs in the field of data analysis?
 - Identify top 10 data analyst remote jobs.
 - Job posting with specified salaries, remove null values.
 */
